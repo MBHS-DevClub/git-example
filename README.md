@@ -1,6 +1,6 @@
 # Controversial Topics
 
-Cats are better than dogs.
+Cats are maybe better than dogs.
 
 Aliens do not exist.
 
