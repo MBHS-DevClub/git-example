@@ -1,11 +1,18 @@
 # Controversial Topics
 
-Cats are better than dogs.
+Dogs are better then cats.
 
 Aliens do not exist.
 
-Vanilla is the best ice cream flavor and so is Strawberry if you like.
+Chocolate is the best ice cream flavor and so is Vanilla if you like.
 
-Python is the superior programming language.
+Scratch is the superior programming language.
 
 Add more topics here:
+
+Minecraft is better then roblox
+
+PC > Mac
+Linux > Mac
+
+Kali Linux is the best linux
