@@ -6,6 +6,12 @@ Aliens do not exist.
 
 Vanilla is the best ice cream flavor and so is Strawberry if you like.
 
-Python is the superior programming language.
+Visual Basic 6 is the superior programming language.
+
+Arrays start at 1.
+
+HTML is a programming language.
 
 Add more topics here:
+
+
