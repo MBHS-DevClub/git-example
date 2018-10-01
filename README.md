@@ -17,3 +17,5 @@ Visual Basic 6 is the superior programming language.
 Arrays start at 1.
 
 HTML is a programming language.
+
+Fortran is still useful.
