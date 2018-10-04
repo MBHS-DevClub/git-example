@@ -19,6 +19,8 @@ Kali Linux is the best linux
 
 Add more topics here:
 
+C++ < C
+
 LISP is the best programming language.
 
 Skittles are better than M&M's.
